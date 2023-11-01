@@ -1,0 +1,12 @@
+{
+  "name": "Rann-MD",
+  "description": "Lightweight WhatsApp Bot",
+  "repository": "https://github.com/yugsjb/RannEMDE-LAST",
+  "logo": "https://telegra.ph/file/d577685b672643f31dc05.jpg",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "multi-device",
+    "whatsapp-bot"
+  ]
+}
